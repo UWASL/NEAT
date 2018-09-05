@@ -28,3 +28,7 @@ To run the basic test provided in the example folder
 ```sh
 $ java -jar target/netpart-0.0.1-SNAPSHOT-shaded.jar example.basic.BasicTest
 ```
+
+### Project Web Page
+
+https://dsl.uwaterloo.ca/projects/neat/
