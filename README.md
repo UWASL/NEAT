@@ -1,16 +1,6 @@
-# Neat
+# NEAT
 
-NEAT is a testing framework for distributed systems 
-that simplifies coordinating multiple clients and 
-injecting different types of network-partitioning faults.
-It simplifies testing by allowing developers to specify a
-global order for client operations and by providing a
-simple API for creating and healing partitions as well as
-crashing nodes. NEAT uses OpenFlow to
-manipulate switch-forwarding rules and create
-partitions. For deployments that do not have an
-OpenFlow switch, we built a basic version using
-iptables to alter firewall rules at end hosts.
+NEAT is a testing framework for distributed systems that simplifies coordinating multiple clients and injecting different types of network-partitioning faults. It simplifies testing by allowing developers to specify a global order for client operations and by providing a simple API for creating and healing partitions as well as crashing nodes.
 
 ### Installation
 Neat requires Java 8 to run.
