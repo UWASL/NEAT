@@ -21,4 +21,4 @@ $ java -jar target/netpart-0.0.1-SNAPSHOT-shaded.jar example.basic.BasicTest
 
 ### Project Web Page
 
-https://dsl.uwaterloo.ca/projects/neat/
+https://wasl.uwaterloo.ca/projects/
